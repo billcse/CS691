@@ -1,5 +1,6 @@
 # hri_projects_2024
-Course content for UNR CS4/691 - Human-Robot Interaction
+
+My project implementations for CS 691 Human-Robot Interactions at UNR, Fall 2024.
 
 ## set up ROS environment
 
